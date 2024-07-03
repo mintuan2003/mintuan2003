@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @mintuan2003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Đinh Minh Tuấn
 
-<!---
-mintuan2003/mintuan2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @minhtuan
+- 👨‍🎓 Major: Computer Networks and Data Communications
+- 🏫 University: University of Information Technology (UIT)
+- 📚 Knowledge:
+  - System: Linux, Docker, Nginx, Openstack
+  - DevOps: Kubernetes, AWS
+  - Others: Git, IoT, Mobile, Database
+- 🎯 Career Objective: Working in System and DevOps
+- 📫 How to reach me:
+  - Email: tuandm2003@gmail.com
+  - Facebook: [minhtuane](https://www.facebook.com/minhtuane)
