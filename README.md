@@ -1,6 +1,6 @@
 # Đinh Minh Tuấn
 
-- 👋 Hi, I’m @minhtuan
+- 👋 Hi, I’m @tuandm203
 - 👨‍🎓 Major: Computer Networks and Data Communications
 - 🏫 University: University of Information Technology (UIT)
 - 📚 Knowledge:
